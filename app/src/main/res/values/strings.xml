@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppDoacaoAnimais</string>
+    <string name="semgps">Sem permissão GPS</string>
+</resources>
