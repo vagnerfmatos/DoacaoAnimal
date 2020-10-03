@@ -4,8 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
 
     <item
-        android:id="@+id/cadastro" android:icon="@android:drawable/ic_menu_edit" app:showAsAction="always"   android:title="Cadastro"/>
-    <item
-        android:id="@+id/sair" android:icon="@android:drawable/ic_menu_close_clear_cancel" app:showAsAction="always|withText" android:title="Sair"/>
+        android:id="@+id/sair" android:icon="@drawable/ic_exit" app:showAsAction="always|withText" android:title="Sair"/>
 
 </menu>
